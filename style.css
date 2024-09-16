@@ -1,0 +1,52 @@
+body .fieldset1 {
+    background-color: rgb(0, 255, 0);
+    border-radius: 0%; margin-left: 3%; margin-right: 3%; text-align: center;
+    text-align: justify; font-family: 'Times New Roman', ;
+
+    .list1{ display: flex; justify-content: center; }
+
+    .button1{ text-align: center;}
+    
+    
+}
+body .fieldset2{
+    background-color: rgb(80, 128, 9);
+    align-items: center; height: 70px; margin-left: 3%; margin-right: 3%;
+
+
+    .icons{ ; display: flex; justify-content: center; gap: 30px;}
+
+    .ldn{  height: 50px; width: 50px;  }
+    .tktk{  height: 50px; width: 50px;}
+    .call{  height: 50px; width: 50px; }
+
+}
+
+
+
+projects
+
+
+ .fieldset3 {
+    background-color: rgb(14, 114, 245);
+    border-radius: 0%; margin-left: 3%; margin-right: 3%; text-align: center;
+    text-align: justify; font-family: 'Times New Roman', ;
+
+    .list1{ display: flex; justify-content: center; }
+
+    .button1{ text-align: center;}
+    
+    
+}
+body .fieldset4{
+    background-color: rgb(80, 128, 9);
+    align-items: center; height: 70px; margin-left: 3%; margin-right: 3%;
+
+
+    .icons{ ; display: flex; justify-content: center; gap: 30px;}
+
+    .ldn{  height: 50px; width: 50px;  }
+    .tktk{  height: 50px; width: 50px;}
+    .call{  height: 50px; width: 50px; }
+
+}
